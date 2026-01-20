@@ -1,5 +1,5 @@
 ---
-title: "Week 1 - Samuel Glass"
+title: "Week 1 - Elle Hubert"
 date: 2026-01-16
 publish: true
 tags:
@@ -7,7 +7,7 @@ tags:
   - reflection
 ---
 
-# Week 1 - Samuel Glass
+# Week 1 - Elle Hubert
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 

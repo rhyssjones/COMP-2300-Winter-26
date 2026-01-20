@@ -1,6 +1,6 @@
 ---
 
-title: "Ben Hubert"
+title: "Elle Hubert"
 date: 2026-01-16
 publish: false
 tags:
@@ -8,7 +8,7 @@ tags:
   - contributor
 ---
 
-# Ben Hubert
+# Elle Hubert
 
 ## About
 
