@@ -1,5 +1,5 @@
 ---
-title: "Notes - Alex Stevens"
+title: "A Thought"
 date: 2026-01-14
 publish: true
 tags:
@@ -9,7 +9,7 @@ tags:
 
 ## Just a post
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Maybe Something Here?
 
 ## Media check
 
